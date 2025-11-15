@@ -1,0 +1,3 @@
+# Ignore fine-tuned artifact output folder
+qwen25_resume_lora/
+qwen25_resume_merged/
